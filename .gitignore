@@ -1,0 +1,7 @@
+output/
+text/
+video/
+__pycache__/
+*.m4a
+*.wav
+*.pcm
