@@ -2,6 +2,7 @@ output/
 text/
 video/
 __pycache__/
+/__pycache__/
 *.m4a
 *.wav
 *.pcm
